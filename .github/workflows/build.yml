@@ -17,7 +17,7 @@ on:
       - '**.md'
 
 env:
-  DOCKERHUB_SLUG: librenms/librenms
+  DOCKERHUB_SLUG: vermiumwastaken/librenms
 
 jobs:
   build:
